@@ -1,4 +1,4 @@
 CSP_Project
 ===========
 
-CSP Project for an AI Class
+Contains an implementation to solve the Constrain Satisfaction problem (or a constraint graph) applied to the australian map coloring example problem.
